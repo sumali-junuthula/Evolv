@@ -1,65 +1,60 @@
-AAPL,"Apple, AAPL, iPhone, iOS, Mac, MacBook, iPad, AirPods, Apple Watch, Tim Cook, App Store, iMac, Apple TV, Siri, iCloud"
-MSFT,"Microsoft, MSFT, Windows, Azure, Xbox, Office, Teams, Surface, Satya Nadella, LinkedIn, Visual Studio, OneDrive, MSN"
-GOOGL,"Google, GOOGL, Alphabet, YouTube, Android, Pixel, Chrome, Sundar Pichai, Google Maps, Google Drive, Google Cloud, Waymo"
-AMZN,"Amazon, AMZN, AWS, Prime, Kindle, Alexa, Whole Foods, Jeff Bezos, Andy Jassy, Amazon Music, Amazon Fresh, Amazon Web Services"
-META,"Meta, Facebook, Instagram, WhatsApp, Oculus, Threads, Messenger, Mark Zuckerberg, Horizon, Meta Quest, Reels, VR"
-TSLA,"Tesla, TSLA, Elon Musk, Model S, Model 3, Model X, Model Y, Cybertruck, Roadster, Gigafactory, Autopilot, Tesla Energy, Solar Roof"
-NVDA,"Nvidia, NVDA, GeForce, RTX, CUDA, AI chips, GPUs, Jensen Huang, Omniverse, DGX, Shield, Deep Learning"
-AMD,"AMD, Advanced Micro Devices, Ryzen, Radeon, EPYC, GPUs, CPUs, Lisa Su, Threadripper, Instinct, Radeon Pro, Semi"
-INTC,"Intel, INTC, Xeon, Core i7, Core i9, Pentium, Intel Inside, Pat Gelsinger, Arc GPUs, Alder Lake, vPro, NUC, Movidius"
-NFLX,"Netflix, NFLX, streaming, originals, Stranger Things, The Crown, Ted Sarandos, Reed Hastings, Squid Game, Netflix Originals"
-DIS,"Disney, DIS, ESPN, Hulu, Marvel, Pixar, Star Wars, Bob Iger, Disney+, ABC, Disneyland, Disney Channel"
-NKE,"Nike, NKE, Jordan, Air Force, Converse, Nike Air, Phil Knight, Vaporfly, SB, Nike+ Run Club, Nike Training Club"
-SBUX,"Starbucks, SBUX, coffee, Frappuccino, Teavana, Howard Schultz, Starbucks Reserve, Pike Place, Nitro Cold Brew"
-MCD,"McDonald's, MCD, Big Mac, McCafe, Happy Meal, fast food, Ronald McDonald, McDelivery, Quarter Pounder, McFlurry"
-WMT,"Walmart, WMT, Sam's Club, groceries, retail giant, Walmart+, Doug McMillon, Walmart.com"
-COST,"Costco, COST, wholesale, membership, Kirkland, Costco Wholesale, Costco.com"
-TGT,"Target, TGT, retail, shopping, superstore, Bullseye, Target Circle, Target.com"
-JPM,"JPMorgan, JPM, Chase, Jamie Dimon, investment bank, Chase Bank, JPMorgan Chase, JPMorgan Asset Management"
-GS,"Goldman Sachs, GS, investment bank, Marcus, Lloyd Blankfein, David Solomon, GS Bank, GS Research"
-MS,"Morgan Stanley, MS, wealth management, investment bank, Morgan Stanley Bank, James Gorman, MS Investment Management"
-V,"Visa, V, credit cards, payments, VisaNet, Visa Checkout, Visa Direct, payment network"
-MA,"Mastercard, MA, payments, credit cards, fintech, Mastercard Send, Mastercard Advisors, Mastercard Labs"
-PYPL,"PayPal, PYPL, Venmo, payments, fintech, Dan Schulman, PayPal Credit, PayPal Business, Xoom"
-BAC,"Bank of America, BAC, BofA, Merrill Lynch, Brian Moynihan, BankAmericard, BofA Securities"
-C,"Citigroup, Citi, Citibank, C, financial services, Jane Fraser, Citi Ventures, Citi Private Bank"
-F,"Ford, F, Mustang, F-150, Bronco, EV, Jim Farley, Ford Motor Company, Ford Blue, FordPass"
-GM,"General Motors, GM, Chevrolet, Chevy, Cadillac, Buick, GMC, Mary Barra, Cruise, GM EV, GM Financial"
-RIVN,"Rivian, RIVN, EV, electric trucks, vans, RJ Scaringe, Rivian R1T, R1S, Rivian Adventure Network"
-LCID,"Lucid Motors, Lucid, LCID, EV, Air sedan, Peter Rawlinson, Lucid Air, Lucid Gravity"
-XOM,"ExxonMobil, XOM, oil, gas, energy, fossil fuels, Darren Woods, Exxon, ExxonMobil Chemical"
-CVX,"Chevron, CVX, energy, oil, gas, renewables, Michael Wirth, ChevronTexaco, Chevron Energy"
-ORCL,"Oracle, ORCL, database, cloud, Larry Ellison, Java, Oracle Cloud, Oracle Database"
-CRM,"Salesforce, CRM, customer relationship management, cloud, Marc Benioff, Salesforce Platform, Tableau"
-ADBE,"Adobe, ADBE, Photoshop, Illustrator, Acrobat, Creative Cloud, Experience Cloud, Shantanu Narayen"
-SAP,"SAP, SAP SE, enterprise software, cloud, ERP, Christian Klein, SAP HANA"
-IBM,"IBM, IBM, Watson, Red Hat, cloud, Arvind Krishna, AI, mainframes, enterprise software"
-CSCO,"Cisco, CSCO, networking, routers, switches, cloud, Chuck Robbins, Webex"
-BK,"Bank of New York Mellon, BK, wealth management, asset servicing, Charles Scharf"
-SCHW,"Charles Schwab, SCHW, brokerage, investing, trading, Schwab Bank, Walter Bettinger"
-SPGI,"S&P Global, SPGI, ratings, indices, financial data, Douglas Peterson"
-MSCI,"MSCI, MSCI Inc, indices, ESG, investment analytics, Henry Fernandez"
-ICE,"Intercontinental Exchange, ICE, stock exchange, clearing, Jeffrey Sprecher, NYSE"
-PFE,"Pfizer, PFE, vaccine, pharmaceuticals, Albert Bourla, COVID-19, BioNTech"
-MRK,"Merck, MRK, pharmaceuticals, vaccines, Ken Frazier, Keytruda, oncology"
-JNJ,"Johnson & Johnson, JNJ, pharmaceuticals, consumer health, medical devices, Alex Gorsky"
-ABBV,"AbbVie, ABBV, Humira, pharmaceuticals, biotechnology, Richard Gonzalez"
-GILD,"Gilead, GILD, pharmaceuticals, antiviral, HIV, COVID-19, Daniel O’Day"
-AMGN,"Amgen, AMGN, biotechnology, pharmaceuticals, Robert Bradway, biologics"
-HD,"Home Depot, HD, retail, DIY, hardware, Craig Menear, Pro services"
-LOW,"Lowe's, LOW, retail, home improvement, Marvin Ellison, Lowe’s Home Improvement"
-KO,"Coca-Cola, KO, beverages, soft drinks, James Quincey, Diet Coke, Fanta, Sprite"
-PEP,"PepsiCo, PEP, beverages, snacks, Ramon Laguarta, Frito-Lay, Gatorade, Pepsi"
-PG,"Procter & Gamble, PG, consumer goods, household, beauty, Jon Moeller, Tide, Pampers, Gillette"
-NKE,"Nike, NKE, sportswear, sneakers, Phil Knight, Jordan, Air Max, Nike Air"
-BP,"BP, British Petroleum, energy, oil, gas, renewables, Bernard Looney"
-TOT,"TotalEnergies, TOT, oil, gas, renewables, energy, Patrick Pouyanné"
-NEE,"NextEra Energy, NEE, renewable energy, wind, solar, James Robo, Florida Power & Light"
-DUK,"Duke Energy, DUK, utilities, electricity, natural gas, Lynn Good"
-SO,"Southern Company, SO, electricity, gas, energy, Thomas Fanning"
-TM,"Toyota, TM, Lexus, Prius, EV, Akio Toyoda"
-HMC,"Honda, HMC, Acura, Civic, Accord, EV, Takahiro Hachigo"
-GM,"General Motors, GM, Chevrolet, Cadillac, Buick, GMC, Mary Barra, EV, Cruise"
-F,"Ford, F, Mustang, F-150, Bronco, EV, Jim Farley, FordPass"
-RIVN,"Rivian, RIVN, electric trucks, vans, RJ Scaringe, R1T, R1S"
-LCID,"Lucid Motors, LCID, Air, EV, Peter Rawlinson, Lucid Gravity"
+AAPL: Apple, AAPL, iPhone, iOS, Mac, MacBook, iPad, AirPods, Apple Watch, Tim Cook, App Store, iMac, Apple TV, Siri, iCloud
+MSFT: Microsoft, MSFT, Windows, Azure, Xbox, Office, Teams, Surface, Satya Nadella, LinkedIn, Visual Studio, OneDrive, MSN
+GOOGL: Google, GOOGL, Alphabet, YouTube, Android, Pixel, Chrome, Sundar Pichai, Google Maps, Google Drive, Google Cloud, Waymo
+AMZN: Amazon, AMZN, AWS, Prime, Kindle, Alexa, Whole Foods, Jeff Bezos, Andy Jassy, Amazon Music, Amazon Fresh, Amazon Web Services
+META: Meta, Facebook, Instagram, WhatsApp, Oculus, Threads, Messenger, Mark Zuckerberg, Horizon, Meta Quest, Reels, VR
+TSLA: Tesla, TSLA, Elon Musk, Model S, Model 3, Model X, Model Y, Cybertruck, Roadster, Gigafactory, Autopilot, Tesla Energy, Solar Roof
+NVDA: Nvidia, NVDA, GeForce, RTX, CUDA, AI chips, GPUs, Jensen Huang, Omniverse, DGX, Shield, Deep Learning
+AMD: AMD, Advanced Micro Devices, Ryzen, Radeon, EPYC, GPUs, CPUs, Lisa Su, Threadripper, Instinct, Radeon Pro, Semi
+INTC: Intel, INTC, Xeon, Core i7, Core i9, Pentium, Intel Inside, Pat Gelsinger, Arc GPUs, Alder Lake, vPro, NUC, Movidius
+NFLX: Netflix, NFLX, streaming, originals, Stranger Things, The Crown, Ted Sarandos, Reed Hastings, Squid Game, Netflix Originals
+DIS: Disney, DIS, ESPN, Hulu, Marvel, Pixar, Star Wars, Bob Iger, Disney+, ABC, Disneyland, Disney Channel
+NKE: Nike, NKE, Jordan, Air Force, Converse, Nike Air, Phil Knight, Vaporfly, SB, Nike+ Run Club, Nike Training Club
+SBUX: Starbucks, SBUX, coffee, Frappuccino, Teavana, Howard Schultz, Starbucks Reserve, Pike Place, Nitro Cold Brew
+MCD: McDonald's, MCD, Big Mac, McCafe, Happy Meal, fast food, Ronald McDonald, McDelivery, Quarter Pounder, McFlurry
+WMT: Walmart, WMT, Sam's Club, groceries, retail giant, Walmart+, Doug McMillon, Walmart.com
+COST: Costco, COST, wholesale, membership, Kirkland, Costco Wholesale, Costco.com
+TGT: Target, TGT, retail, shopping, superstore, Bullseye, Target Circle, Target.com
+JPM: JPMorgan, JPM, Chase, Jamie Dimon, investment bank, Chase Bank, JPMorgan Chase, JPMorgan Asset Management
+GS: Goldman Sachs, GS, investment bank, Marcus, Lloyd Blankfein, David Solomon, GS Bank, GS Research
+MS: Morgan Stanley, MS, wealth management, investment bank, Morgan Stanley Bank, James Gorman, MS Investment Management
+V: Visa, V, credit cards, payments, VisaNet, Visa Checkout, Visa Direct, payment network
+MA: Mastercard, MA, payments, credit cards, fintech, Mastercard Send, Mastercard Advisors, Mastercard Labs
+PYPL: PayPal, PYPL, Venmo, payments, fintech, Dan Schulman, PayPal Credit, PayPal Business, Xoom
+BAC: Bank of America, BAC, BofA, Merrill Lynch, Brian Moynihan, BankAmericard, BofA Securities
+C: Citigroup, Citi, Citibank, C, financial services, Jane Fraser, Citi Ventures, Citi Private Bank
+F: Ford, F, Mustang, F-150, Bronco, EV, Jim Farley, Ford Motor Company, Ford Blue, FordPass
+GM: General Motors, GM, Chevrolet, Chevy, Cadillac, Buick, GMC, Mary Barra, Cruise, GM EV, GM Financial
+RIVN: Rivian, RIVN, EV, electric trucks, vans, RJ Scaringe, Rivian R1T, R1S, Rivian Adventure Network
+LCID: Lucid Motors, Lucid, LCID, EV, Air sedan, Peter Rawlinson, Lucid Air, Lucid Gravity
+XOM: ExxonMobil, XOM, oil, gas, energy, fossil fuels, Darren Woods, Exxon, ExxonMobil Chemical
+CVX: Chevron, CVX, energy, oil, gas, renewables, Michael Wirth, ChevronTexaco, Chevron Energy
+ORCL: Oracle, ORCL, database, cloud, Larry Ellison, Java, Oracle Cloud, Oracle Database
+CRM: Salesforce, CRM, customer relationship management, cloud, Marc Benioff, Salesforce Platform, Tableau
+ADBE: Adobe, ADBE, Photoshop, Illustrator, Acrobat, Creative Cloud, Experience Cloud, Shantanu Narayen
+SAP: SAP, SAP SE, enterprise software, cloud, ERP, Christian Klein, SAP HANA
+IBM: IBM, IBM, Watson, Red Hat, cloud, Arvind Krishna, AI, mainframes, enterprise software
+CSCO: Cisco, CSCO, networking, routers, switches, cloud, Chuck Robbins, Webex
+BK: Bank of New York Mellon, BK, wealth management, asset servicing, Charles Scharf
+SCHW: Charles Schwab, SCHW, brokerage, investing, trading, Schwab Bank, Walter Bettinger
+SPGI: S&P Global, SPGI, ratings, indices, financial data, Douglas Peterson
+MSCI: MSCI, MSCI Inc, indices, ESG, investment analytics, Henry Fernandez
+ICE: Intercontinental Exchange, ICE, stock exchange, clearing, Jeffrey Sprecher, NYSE
+PFE: Pfizer, PFE, vaccine, pharmaceuticals, Albert Bourla, COVID-19, BioNTech
+MRK: Merck, MRK, pharmaceuticals, vaccines, Ken Frazier, Keytruda, oncology
+JNJ: Johnson & Johnson, JNJ, pharmaceuticals, consumer health, medical devices, Alex Gorsky
+ABBV: AbbVie, ABBV, Humira, pharmaceuticals, biotechnology, Richard Gonzalez
+GILD: Gilead, GILD, pharmaceuticals, antiviral, HIV, COVID-19, Daniel O’Day
+AMGN: Amgen, AMGN, biotechnology, pharmaceuticals, Robert Bradway, biologics
+HD: Home Depot, HD, retail, DIY, hardware, Craig Menear, Pro services
+LOW: Lowe's, LOW, retail, home improvement, Marvin Ellison, Lowe’s Home Improvement
+KO: Coca-Cola, KO, beverages, soft drinks, James Quincey, Diet Coke, Fanta, Sprite
+PEP: PepsiCo, PEP, beverages, snacks, Ramon Laguarta, Frito-Lay, Gatorade, Pepsi
+PG: Procter & Gamble, PG, consumer goods, household, beauty, Jon Moeller, Tide, Pampers, Gillette
+BP: BP, British Petroleum, energy, oil, gas, renewables, Bernard Looney
+TOT: TotalEnergies, TOT, oil, gas, renewables, energy, Patrick Pouyanné
+NEE: NextEra Energy, NEE, renewable energy, wind, solar, James Robo, Florida Power & Light
+DUK: Duke Energy, DUK, utilities, electricity, natural gas, Lynn Good
+SO: Southern Company, SO, electricity, gas, energy, Thomas Fanning
+TM: Toyota, TM, Lexus, Prius, EV, Akio Toyoda
+HMC: Honda, HMC, Acura, Civic, Accord, EV, Takahiro Hachigo
